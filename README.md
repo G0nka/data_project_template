@@ -1,6 +1,16 @@
 # data_project_template
 Bootcamp data project template
 
+
+# Modification trial
+This is just a trial to ensure the modifications in README.md file works properly:
+
+This files has been modified by Miguel Gonzalez :laughing:
+
+
+
+
+
 # Data Project README file
 
 The README file describes the essence of the project playing the most important role. Most visitors will simply scroll down about twice on the README and leave if they are not interested. So, the README file should provide the reason **why** to checkout your project!!!). 
